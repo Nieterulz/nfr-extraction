@@ -1,0 +1,2 @@
+# Extracción automática de requisitos no funcionales
+Este proyecto tiene como objetivo la extracción de requisitos no funcionales a partir de texto escrito en lenguaje natural. Contiene una serie de *Jupyter Notebooks* preparados para ser ejecutados en *Google Colab*. Para entender el flujo de ejecución, debemos abrir **setup.ipynb** en *Google Colab*. En él están presentes todas las indicaciones necesarias para probar la herramienta desarrollada.
